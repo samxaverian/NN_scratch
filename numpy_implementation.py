@@ -1,5 +1,5 @@
-STUDENT_NAME = "Soumya Chakraborty"  # Put your name
-STUDENT_ROLLNO = "MT2022162"  # Put your roll number
+STUDENT_NAME = <STUDENT_NAME>  # Put your name
+STUDENT_ROLLNO = <STUDENT_ROLLNO>  # Put your roll number
 CODE_COMPLETE = True
 # set the above to True if you were able to complete the code
 # and that you feel your model can generate a good result
